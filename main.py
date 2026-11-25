@@ -21,7 +21,7 @@ import database
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 logger = logging.getLogger("vending-bot")
 JST = ZoneInfo("Asia/Tokyo")
-AUTHORIZED_OWNER_ID = 1406662933458452604
+AUTHORIZED_OWNER_ID = 1574394214819823656
 app = Flask(__name__)
 
 
